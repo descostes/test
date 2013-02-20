@@ -29,7 +29,7 @@ public class cordovaExample extends DroidGap
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        super.loadUrl("file:///android_asset/www/option.html");
+        super.loadUrl("file:///android_asset/www/index.html");
     }
 }
 
