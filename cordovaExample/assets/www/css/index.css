@@ -1,0 +1,28 @@
+
+img.superbg {
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:-1;
+}
+
+img.load {
+
+   	background-image: url(img/chargement.gif);
+   	width:50px;
+   	height:50px;	
+  }
+  
+ .footer { 
+position: absolute;
+left: 43%;  
+top: 90%; 
+align:center; 
+bottom: 0; 
+}
+
+
+img.first_config { 
+display: block; 
+margin: 0 auto;
+}
